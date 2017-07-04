@@ -1,3 +1,3 @@
 # はじめまして
 
-* [Test](_posts/0001-test.md)
+* [Test](0001-test.md)
