@@ -122,11 +122,11 @@ Glancing through my dictionary, these *kunyomi* readings apparently get used for
 Some notes:
 
 * "The 1st" is `ついたち`. (The hell, right?)
-* "The 2nd" through "the 10th" roughly follow our *kunyomi* readings above, changing a bit here and there to make adding the `か` a little more phonetically pleasant, e.g. `なのか` instead of `ななか`, `むいか` instead of `むつか`.
+* "The 2nd" through "the 10th" roughly follow our *kunyomi* readings above, changing a bit here and there to make adding the `か` a little more phonetically pleasant, e.g. `なのか` instead of ~~`ななか`~~, `むいか` instead of ~~`むつか`~~.
 * There exists a *kunyomi* "10th", unlike with `つ`.
 * "The 11th" through "the 13th" are *onyomi*, then "the 14th" is a bizzare mix.
 
-Like I said, highly recommend looking at the link for more, as its table does a great job of showing these irregularities.
+Like I said, highly recommend looking at the link for more, as its table does a great job of showing these irregularities, which, outside of the patterns at play, are sadly a case of "Ya just gotta memorize 'em."
 
 ### *Onyomi* Counters
 
@@ -136,11 +136,9 @@ And the answer is: kinda everywhere else!
 
 ... with the caveat that there are some obscure readings that will use the *kunyomi*, and there's a very real chance that I'm forgetting something incredibly obvious.
 
-... ... Hey, remember how I told you I might be forgetting something incredibly obvious? Guess what? I did!
+... ... Hey, remember how I told you I might be forgetting something incredibly obvious? Guess what? I did! It's fortunate timing though, because, while irregular, this next counter nicely shows what a *mostly* *onyomi* counter looks like.
 
-In typing up the list below to show examples of *onyomi* with counters, I immediately came to realize that this example is also a mix, kinda like the calendar dates.
-
-Here are some examples of the *mostly* *onyomi* `人` ("person"/"people") counter:
+It's the `人` counter, for "person"/"people", and it goes a little somethin' like this:
 
 * 一人　ひとり \*\*
 * 二人　ふたり \*\*
@@ -153,12 +151,17 @@ Here are some examples of the *mostly* *onyomi* `人` ("person"/"people") counte
 * 九人　きゅうにん
 * 十人　じゅうにん
 * 十一人　じゅういちにん
+* 十二人　じゅうににん
 
-The two marked with `**` are the irregular, purely *kunyomi* readings. You just need to know these, but fortunately, they're really, really common, so you'll be used to them in no time! Also, notice that the irregularity doesn't recur for 11.
+The two marked with `**` are the irregular, purely *kunyomi* readings. You just need to know these, but fortunately, they're really, really common, so you'll be used to them in no time!
+
+Also worth noting: the irregularity for 1 and 2 doesn't recur for 11 and 12!
 
 #### 4's and 7's
 
-The two marked with a single `*` are examples of my observation earlier that otherwise entirely *onyomi* counting often has substitutions for 4's and 7's, i.e. `よん` instead of `し` and `なな` instead of `しち`. This also extend to, for example, `四十七人`, which would likely be pronounced as `よんじゅうななにん`.
+The single `*` above shows examples of what I mentioned earlier: otherwise entirely *onyomi* counting often has substitutions for 4's and 7's, i.e. `よん` instead of `し` and `なな` instead of `しち`.
+
+This also extends to, for example, `四十七人`, which would likely be pronounced as `よんじゅうななにん`.
 
 This is not at all peculiar to the `人` counter though, so you'll see this across Japanese in general.
 
@@ -212,12 +215,24 @@ Some common patterns here:
 
 Other notes and thoughts
 
-* No idea what `はたち` (`二十歳`) is all about, but 20 is the age of majority in Japan, so that might have something to do with its special pronunciation. Interestingly, it also sort of matches the irregular `二十日` (`はつか`).
+* No idea what `はたち` (`二十歳`) is all about, but 20 is the [age of majority](https://simple.wikipedia.org/wiki/Age_of_majority) in Japan, so that might have something to do with its special pronunciation. Interestingly, it also sort of matches the irregular `二十日` (`はつか` "the 20th (of the month)").
 * You sometimes see the age counter `歳` written as the simplified `才`.
 * `十分` can also be read as `じゅうぶん`, a pronuncation not listed above for "ten minutes", when used to mean "enough". So depending on the meaning, the list of possible pronuncations for some words can change. (I wish I could think of another example of this, but none leap to mind.)
 
 
 ### Bonus
+
+#### Ordinal Numbers
+
+Making ordinal numbers like "1st" (when __not__ referring to "the 1st of the month") is simple: just add `第` (`だい`) in front of the number!
+
+Some example vocab that uses this:
+
+* 第一言語　だいいちげんご　"first language"
+* 第二次世界大戦　だいにじせかいたいせん　"World War II"
+* 第三者　だいさんしゃ　"third party; third person; outsider"
+
+#### Intervals
 
 For some time words, you use counters differently depending on if you're talking about a point in time or an interval.
 
