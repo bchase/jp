@@ -213,7 +213,7 @@ Some common patterns here:
 * the consonants following `さん` are often voiced, e.g. `さんふん` goes to `さんぶん`
 * the consonants following the contracted `いっ`, when in the `は`-row, are often semi-voiced, e.g. `いっふん` goes to `いっぷん`
 
-Other notes and thoughts
+Other notes and thoughts:
 
 * No idea what `はたち` (`二十歳`) is all about, but 20 is the [age of majority](https://simple.wikipedia.org/wiki/Age_of_majority) in Japan, so that might have something to do with its special pronunciation. Interestingly, it also sort of matches the irregular `二十日` (`はつか` "the 20th (of the month)").
 * You sometimes see the age counter `歳` written as the simplified `才`.
@@ -242,12 +242,14 @@ For some time words, you use counters differently depending on if you're talking
 * 一日　　ついたち　　　"the 1st (of a month)"
 * 一日間　いちにちかん　"one day (i.e. the span of 24 hours)"
 
+Notice that `一日間` is pronounced `いちにちかん`, and not ~~`ついたちかん`~~.
+
 This has a couple special peculiarities in regards to months:
 
 * 一月　　いちがつ　　"January (i.e. the first month in the Gregorian calendar)"
 * 一ヶ月　いっかげつ　"one month (i.e. the span of one month, ~30 days)"
 
-Notice that `月` is pronounced `がつ` for the months of the year, and `げつ` for "X month's time".
+Notice that `月` is pronounced `がつ` for the months of the year, and `げつ` for meaning "span of X months".
 
 There's also a tiny `ヶ`, which gets pronounced `か`. What's worse, it can be written any of these three ways:
 
@@ -270,7 +272,7 @@ If you're anything like I was, you're probably like "OMG there's so much to reme
 * all *onyomi* readings (though don't forget `よん` for 4 and `なな` for 7!)
 * *onyomi* readings change in similar, predictable ways
 
-To recap and drive that last point home, notice the `いち` to `いっ`, as well as `は`-row semi-voicing change on 1 and full-voicing change on 3 for these two counters we saw earlier:
+To recap and drive that last point home, notice the `いち` to `いっ`, as well as `は`-row semi-voicing change on `1` and full-voicing change on `3` for these two counters we saw earlier:
 
 ###### Small Animals
 
@@ -292,7 +294,7 @@ Now, if I told you that `本` (`ほん`) is a counter for "long, cylindrical obj
 * 二本
 * 三本
 
-This works everywhere!
+If you follow the pattern, you get the correct result, and this works all the time!
 
 #### Which counter do I use? And what if I don't know what counter to use?
 
@@ -304,24 +306,25 @@ The not straightforward thing is when you don't know what counter to use.
 
 I've always heard that if you don't know what to use, just use `つ`. There may be a more appropriate counter, and it might sound a bit unnatural, but you'll be understood just fine .
 
-I'm realizing now that this kind of caps you at 9 (as noted above about counting with `つ`), so my personal, likely poor, recommendation would be to use `個` (`こ`) if you have to go higher. In as far as I know, it's mostly used kind of generically for "small objects" that don't have their own special counter, but it should put you back in the realm of "wrong but comprehensible" where you'd otherwise be with `つ`.
+I'm realizing now that this kind of caps you at 9 (as noted above about counting with `つ`), so my personal, likely poor, recommendation would be to use `個` (`こ`) if you have to go higher. In as far as I know, it's mostly used kind of generically for "small objects" that don't have their own special counter, but it should put you back in the realm of "wrong but comprehensible", which is right where you'd otherwise be with `つ`.
 
 #### Storytime
 
-Honestly, my last trip to Japan I learned a handful of counters from shopkeeps and convenience store employees, just by asking!
+During my last trip to Japan I learned a handful of counters from shopkeeps and convenience store employees, just by asking!
+
+Highly recommended, would ask again.
 
 In particular, I remember asking for two pairs of chopsticks at a 7-11 in East Hiroshima, by holding up two fingers and saying `二本` (`にほん`), which immediately felt wrong to me. As I said above, that'd be "two long cylindrical objects", so it felt like "two sticks" rather than "two pairs of chopsticks", which would be four sticks!
 
 Realizing my likely mistake, I repeated `二本？… 正しいですか？二本？… 二つ？…` (`ただしいですか？` "[Is that] correct?"), to which the clerk smiled and responded something to the effect of `いいえ、ニゼンです` ("No, it's *NIZEN*."), holding up two pairs of chopsticks as he did so to help illustrate. After thanking him and leaving, I looked up `ゼン` (written here in katakana, as that's what I heard phonetically, and had no idea how to write it), and found `膳` (`ぜん`), a kanji I don't even now recognize, which means, among other things, "counter for chopsticks".
 
-And despite not remembering the kanji, I did remember that it was `ぜん` off the top of my head while writing this, despite never hearing or using it since. Human brains *love* learning things in context!
+And even though I didn't really remember the kanji, I did remember that it was `ぜん` off the top of my head while writing this, despite never hearing it or using it since. Human brains *love* learning things in context!
 
-Earlier in Hiroshima, I ordered some [たいやき](https://en.wikipedia.org/wiki/Taiyaki), probably using `ひとつ`, then did the same thing, and, if memory serves, the shopkeep taught me that they're counted with `個` (`こ`).
+Earlier in Hiroshima, I ordered some [たいやき](https://en.wikipedia.org/wiki/Taiyaki), probably using `ひとつ` to ask for "one", then did the same thing to haphazardly ask for the correct counter, and, if memory serves, the shopkeep taught me that they're counted with `個` (`こ`)!
 
-Also, if you're just generally looking to strike up conversations with locals, let me tell you, asking about this kind of stuff is great for that!
+So, also, if you're just generally looking to strike up conversations with locals, let me tell you, asking about this kind of stuff is great for that!
 
 And one last thing about using the wrong counters: every single time I have ever had to say a day of the month in Japanese, I have had to stop and think, and it's never got me laughed at. Honestly, I think you could even just say, for example, `よんにち` for "the 4th" and be understood, in the same way if someone said "the four" in English, in the context of calendar dates, we'd *understand* their meaning just fine. In my experience, the Japanese people I've met have been thrilled that I've attempted to learn their language, and have not been concerned in the least with my very likely improper counter usage. I bet you'll get by just as well!
-
 
 ## Super Extra Bonus Time
 
@@ -353,10 +356,10 @@ I mentioned earlier that my dictionary (JMdict) does contain obscure words with 
 七色 (なないろ) (n) the seven prismatic colors (colours);
 ```
 
-So there are some one-off words, but mostly a lot of counting things that don't have their own counters, such as "seas", "stars", and "Deadly Sins".
+So there are some one-off words there, but mostly a lot of counting things that don't have their own counters, such as "seas", "stars", and "Deadly Sins".
 
 I also find "pawn shop" really interesting. Maybe it's along the lines of "seven random things store"?
 
 ## TIL
 
-The counter `つ`, while always written in kana (to the extent that I couldn't get the IME on my laptop to even give me a kanji for the `つ` in `ひとつ`), would be written in kanji as [`箇` or `個`](http://jisho.org/word/%E7%AE%87-1), the second of which serves the same purpose as the generic counter `ge4` when written in Traditional Chinese characters. Really cool!
+The counter `つ`, while always written in kana (to the extent that I couldn't even get the IME on my laptop to give me a kanji for the `つ` in `ひとつ`), would be written in [kanji as `箇` or `個`](http://jisho.org/word/%E7%AE%87-1), the second of which serves the same purpose as the generic counter `ge4` when written in Traditional Chinese characters for Mandarin Chinese. Really cool!
