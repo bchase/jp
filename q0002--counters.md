@@ -102,22 +102,22 @@ Also, notably missing from this list is something like ~~`十つ`~~, which I can
 
 ...at least, if you can go any higher in modern Japanese, *I* don't know how.
 
-Glancing through my dictionary, these *kunyomi* readings apparently get used for other things, but most of the entries I'm finding are for pretty obscure meanings. Ignoring those, the only other common usage outside of `つ` that I can think of for them is with [days of the month](https://en.wikibooks.org/wiki/Japanese/Vocabulary/Dates#Days_of_the_month). The linked Wikipedia page nicely points out which readings have either *kunyomi* or irregular pronunciations, so if you're interested in all 31 possibilities, I encourage you to check that out, but here's enough to see the pecularities:
+Glancing through my dictionary, these *kunyomi* readings apparently get used for other things, but most of the entries I'm finding are for pretty obscure meanings. Ignoring those, the only other common usage outside of `つ` that I can think of for *kunyomi* counting is for the days of the month. [This Wikipedia page](https://en.wikibooks.org/wiki/Japanese/Vocabulary/Dates#Days_of_the_month) nicely points out which readings have either *kunyomi* or irregular pronunciations, so if you're interested in all 31 possibilities, I encourage you to check that out, but here's enough of a look to see the pecularities:
 
-* 1st  一日  ついたち
-* 2nd  二日  ふつか
-* 3rd  三日  みっか
-* 4th  四日  よっか
-* 5th  五日  いつか
-* 6th  六日  むいか
-* 7th  七日  なのか
-* 8th  八日  ようか
-* 9th  九日  ここのか
-* 10th  十日  とおか
-* 11th  十一日  じゅういちにち
-* 12th  十二日  じゅうににち
-* 13th  十三日  じゅうさんにち
-* 14th  十四日  じゅうよっか
+* 1st　　一日　　ついたち
+* 2nd　　二日　　ふつか
+* 3rd　　三日　　みっか
+* 4th　　四日　　よっか
+* 5th　　五日　　いつか
+* 6th　　六日　　むいか
+* 7th　　七日　　なのか
+* 8th　　八日　　ようか
+* 9th　　九日　　ここのか
+* 10th　　十日　　とおか
+* 11th　　十一日　　じゅういちにち
+* 12th　　十二日　　じゅうににち
+* 13th　　十三日　　じゅうさんにち
+* 14th　　十四日　　じゅうよっか
 
 Some notes:
 
