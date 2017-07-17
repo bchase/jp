@@ -138,3 +138,21 @@ We can nominalize Japanese verbs with `〜こと` and `〜の`, which allows us 
 
 ×　走るが好きです。
 ```
+
+## Bonus
+
+In this construction, `こと` is always written in hiragana, but it otherwise has the following kanji:
+
+```
+事
+こと
+"[abstract] thing"
+```
+
+And, by the way, in contrast to that "abstract" above, there is also...
+
+```
+物
+もの
+"[concrete/physical] thing"
+```
